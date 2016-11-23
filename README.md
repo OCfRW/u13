@@ -3,7 +3,7 @@ Coordination for U13 grant proposal
 
 call for proposals: https://grants.nih.gov/grants/guide/rfa-files/RFA-CA-16-020.html
 
-Problem we are solving:
+Problems we are solving:
 * The workflow communities work in silos and little discussion happens between different workflow communities
 * Workflow systems each compete to do everything and seldom work together to share workflow system components
 * Users chose a workflow system for a variety of reasons (some good, some bad) then get locked into their choice
